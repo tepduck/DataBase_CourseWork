@@ -49,9 +49,9 @@ create table OrderItem(
 );
 
 drop table OrderItem;
-drop table BookOrder;
 drop table BookshopUser;
 drop table Card;
+drop table BookOrder;
 drop table Product;
 drop table Role;
 drop table Category;
