@@ -10,3 +10,9 @@ insert into Category(categoryName) values
 
 insert into Role(roleName) values
 	('admin'), ('user');
+
+
+---INSERT INTO BOOKORDER
+
+insert into BookOrder(status) values
+	('оформлен'), ('подтвеждён'), ('оплачен'), ('забран');
